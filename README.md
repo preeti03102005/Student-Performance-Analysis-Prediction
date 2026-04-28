@@ -1,6 +1,7 @@
 # Student Analytics System
 
 📌 Project Description
+
 The Student Analytics System is a data analysis project that examines student performance using various factors such as study hours, attendance, parental background, and learning methods.
 The goal of this project is to identify patterns and insights that influence academic performance and help improve learning outcomes.
 
