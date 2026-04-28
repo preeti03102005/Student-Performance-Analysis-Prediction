@@ -25,9 +25,8 @@ This project focuses on analyzing student data using Python to understand factor
 * Pattern and trend identification
 
 ##  Project Structure
- README.md
-
-
+ * README.md
+ * student.ipynb
 
 ##  Dataset
 The dataset contains student-related information such as:
