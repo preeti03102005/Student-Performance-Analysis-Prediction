@@ -1,4 +1,4 @@
-# Student Analytics System
+# Student Performance Analysis & Prediction
 
 📌 Project Description
 
